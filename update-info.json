@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.0.0.zip",
-  "release_notes": "Erste öffentliche Version",
+  "version": "1.1.0",
+  "release_notes": "NAudio Audio-Feedback, Auto-Update, TextBox-Validierung",
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.1.0.zip",
   "release_date": "2026-02-02"
 }
