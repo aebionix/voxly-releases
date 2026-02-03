@@ -1,6 +1,6 @@
 {
-  "version": "1.2.12",
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.13.zip",
   "release_date": "2026-02-03",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.12.zip",
-  "release_notes": "Fix: Update-Script loescht sich nicht mehr selbst"
+  "version": "1.2.13",
+  "release_notes": "Fix: Encoding Provider fuer Windows-1252 registriert"
 }
