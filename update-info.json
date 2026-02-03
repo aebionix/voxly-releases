@@ -1,6 +1,6 @@
 {
-  "release_notes": "Fix: Update-Script prueft ob Quellordner existiert",
+  "version": "1.2.12",
   "release_date": "2026-02-03",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.11.zip",
-  "version": "1.2.11"
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.12.zip",
+  "release_notes": "Fix: Update-Script loescht sich nicht mehr selbst"
 }
