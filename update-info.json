@@ -1,6 +1,6 @@
 {
   "release_date": "2026-02-03",
-  "release_notes": "Besserer Countdown im Update-Fenster",
-  "version": "1.2.18",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.18.zip"
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.19.zip",
+  "release_notes": "Test: Countdown nach Installation",
+  "version": "1.2.19"
 }
