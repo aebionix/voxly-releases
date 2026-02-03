@@ -1,6 +1,6 @@
 {
-  "version": "1.2.9",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.9.zip",
+  "release_notes": "Update-Script: Schweizer Rechtschreibung (ss statt ß)",
+  "version": "1.2.10",
   "release_date": "2026-02-03",
-  "release_notes": "Update-Script: ANSI-Encoding für Umlaute"
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.10.zip"
 }
