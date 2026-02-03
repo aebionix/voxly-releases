@@ -1,6 +1,6 @@
 {
   "release_date": "2026-02-03",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.5.zip",
-  "release_notes": "Update-Dialog mit Countdown, Release-Script vereinfacht",
-  "version": "1.2.5"
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.6.zip",
+  "version": "1.2.6",
+  "release_notes": "Update-Dialog: Hinweis auf Konsolenfenster"
 }
