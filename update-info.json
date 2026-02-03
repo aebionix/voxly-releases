@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "release_notes": "NAudio Audio-Feedback, Auto-Update, TextBox-Validierung",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.1.0.zip",
-  "release_date": "2026-02-02"
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.0.zip",
+  "version": "1.2.0",
+  "release_notes": "Diverse Anpassungen in den Settings und Theme durchgezogen",
+  "release_date": "2026-02-03"
 }
