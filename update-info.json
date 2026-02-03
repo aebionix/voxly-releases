@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.25.zip",
-  "release_notes": "Fix: Countdown überschreibt sich korrekt",
-  "version": "1.2.25",
-  "release_date": "2026-02-03"
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.26.zip",
+  "version": "1.2.26",
+  "release_date": "2026-02-03",
+  "release_notes": "GUI Update-Fenster mit Dark Mode"
 }
