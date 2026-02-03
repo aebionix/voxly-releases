@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.24.zip",
-  "version": "1.2.24",
-  "release_notes": "Countdown überschreibt sich selbst",
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.25.zip",
+  "release_notes": "Fix: Countdown überschreibt sich korrekt",
+  "version": "1.2.25",
   "release_date": "2026-02-03"
 }
