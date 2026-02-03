@@ -1,6 +1,6 @@
 {
-  "release_notes": "Debug: GUI sichtbar machen",
-  "version": "1.2.28",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.28.zip",
-  "release_date": "2026-02-03"
+  "release_date": "2026-02-03",
+  "release_notes": "GUI Updater: 6s Countdown, kein Konsolen-Fenster",
+  "version": "1.2.29",
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.29.zip"
 }
