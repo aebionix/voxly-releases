@@ -1,6 +1,6 @@
 {
   "release_date": "2026-02-03",
-  "release_notes": "Update-Fenster: Vereinfachter Countdown",
-  "version": "1.2.7",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.7.zip"
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.8.zip",
+  "release_notes": "Update-Script: Vereinfacht, ASCII only",
+  "version": "1.2.8"
 }
