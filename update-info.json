@@ -1,8 +1,7 @@
 {
-  "release_notes": "Dark Mode fuer Ziel-Fenster Dialog, Update-Countdown ohne Punkte",
-  "version": "1.3.3",
-  "installer_url": "https://github.com/aebionix/wisper-releases/releases/download/v1.3.3/WisperApp-v1.3.3-Setup.exe",
-  "download_url": "https://github.com/aebionix/wisper-releases/releases/download/v1.3.3/WisperApp-v1.3.3.zip",
+  "installer": true,
+  "download_url": "https://github.com/aebionix/wisper-releases/releases/download/v1.3.4/WisperApp-v1.3.4-Setup.exe",
   "release_date": "2026-02-08",
-  "installer": true
+  "version": "1.3.4",
+  "release_notes": "Fix: Download mit Redirects und Groessen-Pruefung"
 }
