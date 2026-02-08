@@ -1,7 +1,7 @@
 {
   "release_date": "2026-02-08",
-  "version": "2.2.0",
-  "release_notes": "Fix: Stuck Modifier-Keys (Ctrl/Alt/Shift) - Watchdog-Prozess überwacht App",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.2.0/Voxly-v2.2.0-Setup.exe",
-  "installer": true
+  "release_notes": "Fix: Installer Desktop-Verknüpfung ohne Admin",
+  "version": "2.2.1",
+  "installer": true,
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.2.1/Voxly-v2.2.1-Setup.exe"
 }
