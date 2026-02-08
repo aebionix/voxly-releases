@@ -1,7 +1,7 @@
 {
-  "installer": true,
   "release_date": "2026-02-08",
-  "release_notes": "Fix: UTF-8 Encoding für Mikrofonnamen mit Sonderzeichen. Fix: Auto-Erkennung des Mikrofons beim ersten Start.",
-  "version": "2.1.1",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.1.1/Voxly-v2.1.1-Setup.exe"
+  "version": "2.2.0",
+  "release_notes": "Fix: Stuck Modifier-Keys (Ctrl/Alt/Shift) - Watchdog-Prozess überwacht App",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.2.0/Voxly-v2.2.0-Setup.exe",
+  "installer": true
 }
