@@ -1,31 +1,67 @@
-# Voxly - Releases
+# Voxly
 
-Offizielle Releases von Voxly - Lokale Spracherkennung mit Whisper.
+**Lokale Spracherkennung für Windows — 100% offline, keine Cloud.**
+
+[![GitHub Release](https://img.shields.io/github/v/release/aebionix/voxly-releases?style=flat-square)](https://github.com/aebionix/voxly-releases/releases/latest)
+[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows)](https://github.com/aebionix/voxly-releases/releases/latest)
+
+---
 
 ## Download
 
-[![GitHub Release](https://img.shields.io/github/v/release/aebionix/voxly-releases)](https://github.com/aebionix/voxly-releases/releases/latest)
+**[⬇️ Installer herunterladen](https://github.com/aebionix/voxly-releases/releases/latest)**
 
-**[⬇️ Download Installer](https://github.com/aebionix/voxly-releases/releases/latest)**
+---
+
+## Was ist Voxly?
+
+Voxly verwandelt deine Stimme in Text — direkt auf deinem Computer. Keine Internetverbindung nötig, keine Daten werden übertragen.
+
+- **100% Lokal** — Deine Stimme verlässt nie deinen PC
+- **Schnell** — Keine Wartezeit auf Server
+- **Einfach** — Taste drücken, sprechen, loslassen
+- **24 Sprachen** — Deutsch, Englisch, Französisch und mehr
+
+---
+
+## So funktioniert's
+
+| Schritt | Aktion |
+|---------|--------|
+| 1 | **Rechte Strg** drücken und halten |
+| 2 | Sprechen |
+| 3 | Loslassen — Text wird automatisch eingefügt |
+
+### Weitere Aktionen
+
+| Tastenkombination | Aktion |
+|-------------------|--------|
+| RCtrl 2x schnell | History öffnen |
+| RCtrl kurz tippen | Letzten Text wiederholen |
+
+---
+
+## Editionen
+
+### Free Edition
+- 60 Aufnahmen pro Stunde
+- Max. 30 Sekunden pro Aufnahme
+- Alle Sprachen
+- Alle Modelle
+- Keine Registrierung
+
+### Premium Edition *(bald verfügbar)*
+- Unbegrenzte Aufnahmen
+- Keine Zeitlimits
+- Einmalige Zahlung
+
+---
 
 ## Installation
 
-1. Installer herunterladen (`.exe`)
-2. Ausführen - keine Admin-Rechte erforderlich
-3. Fertig! Alle Komponenten sind enthalten.
-
-### Was ist enthalten?
-
-Der Installer enthält alles was benötigt wird:
-
-| Komponente | Lizenz | Zweck |
-|------------|--------|-------|
-| Voxly | Proprietär | Hauptanwendung |
-| FFmpeg | LGPL 2.1+ | Audio-Aufnahme |
-| whisper.cpp | MIT | Spracherkennung |
-| Whisper Model (tiny) | MIT | KI-Modell |
-
-**Keine zusätzlichen Installationen nötig** - kein .NET, kein FFmpeg, nichts!
+1. **Installer herunterladen** (`.exe`)
+2. **Ausführen** — keine Admin-Rechte erforderlich
+3. **Fertig!** — Alles ist enthalten, keine zusätzlichen Downloads
 
 ### Systemanforderungen
 
@@ -33,23 +69,11 @@ Der Installer enthält alles was benötigt wird:
 - ~400 MB Festplattenspeicher
 - Mikrofon
 
-## Verwendung
+---
 
-1. **Rechte Strg** drücken und halten
-2. Sprechen
-3. Loslassen - Text wird automatisch eingefügt
+## Sprachmodelle
 
-### Hotkeys
-
-| Aktion | Tastenkombination |
-|--------|-------------------|
-| Aufnahme starten | Rechte Strg (halten) |
-| History öffnen | Rechte Strg 2x schnell |
-| Letzten Text wiederholen | Rechte Strg kurz tippen |
-
-## Grössere Modelle
-
-Die App enthält das "tiny" Modell (schnell, gut für kurze Texte). Für bessere Erkennung können grössere Modelle in den Einstellungen heruntergeladen werden:
+Die App enthält das **tiny** Modell. Für bessere Erkennung können grössere Modelle direkt in den Einstellungen heruntergeladen werden:
 
 | Modell | Grösse | Qualität | Geschwindigkeit |
 |--------|--------|----------|-----------------|
@@ -58,14 +82,28 @@ Die App enthält das "tiny" Modell (schnell, gut für kurze Texte). Für bessere
 | small | 500 MB | ⭐⭐⭐⭐ | ⭐⭐⭐ |
 | medium | 1.5 GB | ⭐⭐⭐⭐⭐ | ⭐⭐ |
 
-## Auto-Update
+*Geschwindigkeit abhängig von deiner Hardware.*
 
-Die App prüft automatisch auf Updates und bietet Installation mit einem Klick.
+---
 
-## Lizenzen
+## Enthaltene Komponenten
 
-Siehe [LICENSES.md](https://github.com/aebionix/voxly-releases/blob/main/LICENSES.md) für Details zu den enthaltenen Open-Source-Komponenten.
+| Komponente | Lizenz | Zweck |
+|------------|--------|-------|
+| Voxly | Proprietär | Hauptanwendung |
+| FFmpeg | LGPL 2.1+ | Audio-Aufnahme |
+| whisper.cpp | MIT | Spracherkennung (OpenAI Whisper) |
+| Whisper Model | MIT | KI-Modell |
+
+Siehe [LICENSES.md](LICENSES.md) für Details.
+
+---
 
 ## Support
 
-Bei Fragen oder Problemen: [GitHub Issues](https://github.com/aebionix/voxly-releases/issues)
+- **Website:** [voxly.aebionix.com](https://voxly.aebionix.com)
+- **Issues:** [GitHub Issues](https://github.com/aebionix/voxly-releases/issues)
+
+---
+
+*Entwickelt von [Aebionix](https://aebionix.com)*
