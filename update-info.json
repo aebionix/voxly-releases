@@ -1,7 +1,7 @@
 {
-  "release_notes": "Sprachauswahl erweitert auf 24 Sprachen (Deutsch, Englisch, Französisch, Italienisch, Spanisch, Portugiesisch, Niederländisch, Polnisch, Russisch, Chinesisch, Japanisch, Koreanisch, Arabisch, Hindi, Türkisch, Schwedisch, Norwegisch, Dänisch, Finnisch, Griechisch, Tschechisch, Rumänisch, Ungarisch, Ukrainisch)",
-  "installer": true,
+  "version": "2.1.0",
   "release_date": "2026-02-08",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.0.3/Voxly-v2.0.3-Setup.exe",
-  "version": "2.0.3"
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.1.0/Voxly-v2.1.0-Setup.exe",
+  "installer": true,
+  "release_notes": "Rename Wisper to Voxly"
 }
