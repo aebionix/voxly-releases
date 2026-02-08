@@ -1,7 +1,7 @@
 {
-  "release_date": "2026-02-08",
-  "release_notes": "Fix: Installer Desktop-Verknüpfung ohne Admin",
-  "version": "2.2.1",
+  "release_notes": "Free Edition Wahl wird gespeichert, Popup-Dauer erhöht",
+  "version": "2.2.2",
   "installer": true,
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.2.1/Voxly-v2.2.1-Setup.exe"
+  "release_date": "2026-02-08",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.2.2/Voxly-v2.2.2-Setup.exe"
 }
