@@ -53,7 +53,6 @@ Voxly verwandelt deine Stimme in Text — direkt auf deinem Computer. Keine Inte
 ### Premium Edition *(bald verfügbar)*
 - Unbegrenzte Aufnahmen
 - Keine Zeitlimits
-- Einmalige Zahlung
 
 ---
 
