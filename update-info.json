@@ -1,8 +1,7 @@
 {
-  "version": "2.0.0",
-  "download_url": "https://raw.githubusercontent.com/aebionix/voxly-releases/main/releases/Voxly-v2.0.0.zip",
-  "installer_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.0.0/Voxly-v2.0.0-Setup.exe",
-  "installer": false,
+  "release_notes": "Fix: Hotkey wird nicht mehr als Zeichen weitergegeben während der Aufnahme",
   "release_date": "2026-02-08",
-  "release_notes": "Erste Version von Voxly - Self-contained mit allen Komponenten"
+  "installer": true,
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.0.1/Voxly-v2.0.1-Setup.exe",
+  "version": "2.0.1"
 }
