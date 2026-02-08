@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
-  "release_date": "2026-02-08",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.1.0/Voxly-v2.1.0-Setup.exe",
   "installer": true,
-  "release_notes": "Rename Wisper to Voxly"
+  "release_date": "2026-02-08",
+  "release_notes": "Fix: UTF-8 Encoding für Mikrofonnamen mit Sonderzeichen. Fix: Auto-Erkennung des Mikrofons beim ersten Start.",
+  "version": "2.1.1",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.1.1/Voxly-v2.1.1-Setup.exe"
 }
