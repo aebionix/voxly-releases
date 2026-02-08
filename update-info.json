@@ -4,5 +4,5 @@
   "installer_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.0.0/Voxly-v2.0.0-Setup.exe",
   "installer": false,
   "release_date": "2026-02-08",
-  "release_notes": "Umbenennung zu Voxly, Self-contained Installer mit allen Komponenten"
+  "release_notes": "Erste Version von Voxly - Self-contained mit allen Komponenten"
 }
