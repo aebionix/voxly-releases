@@ -1,8 +1,18 @@
-# Third-Party Licenses
+# Voxly - Lizenzen
 
-Wisper App enthält folgende Drittanbieter-Komponenten:
+## Voxly
 
-## FFmpeg (LGPL 2.1+)
+**© 2026 Aebionix. Alle Rechte vorbehalten.**
+
+Voxly ist proprietäre Software von Aebionix. Die Nutzung unterliegt den Lizenzbedingungen.
+
+Voxly ist ein eigenständiges Produkt von Aebionix und steht in keiner Verbindung zu OpenAI, Microsoft oder anderen Unternehmen.
+
+---
+
+## Enthaltene Open-Source-Komponenten
+
+### FFmpeg (LGPL 2.1+)
 
 - **Website:** https://ffmpeg.org/
 - **Lizenz:** LGPL 2.1 or later
@@ -11,7 +21,7 @@ Wisper App enthält folgende Drittanbieter-Komponenten:
 
 FFmpeg is licensed under the LGPL version 2.1 or later. The source code is available at https://ffmpeg.org/download.html.
 
-## whisper.cpp (MIT)
+### whisper.cpp (MIT)
 
 - **Website:** https://github.com/ggerganov/whisper.cpp
 - **Lizenz:** MIT
@@ -41,7 +51,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## OpenAI Whisper Models (MIT)
+### OpenAI Whisper Models (MIT)
 
 - **Website:** https://github.com/openai/whisper
 - **Lizenz:** MIT
@@ -71,13 +81,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## NAudio (MIT)
+### NAudio (MIT)
 
 - **Website:** https://github.com/naudio/NAudio
 - **Lizenz:** MIT
 - **Verwendung:** Audio-Feedback (Signaltöne)
 
-## InputSimulatorPlus (MIT)
+### InputSimulatorPlus (MIT)
 
 - **Website:** https://github.com/TChatzigiannakis/InputSimulatorPlus
 - **Lizenz:** MIT

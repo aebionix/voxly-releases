@@ -1,12 +1,12 @@
-# Wisper App - Releases
+# Voxly - Releases
 
-Offizielle Releases der Wisper App - Lokale Spracherkennung mit Whisper.
+Offizielle Releases von Voxly - Lokale Spracherkennung mit Whisper.
 
 ## Download
 
-[![GitHub Release](https://img.shields.io/github/v/release/aebionix/wisper-releases)](https://github.com/aebionix/wisper-releases/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/release/aebionix/voxly-releases)](https://github.com/aebionix/voxly-releases/releases/latest)
 
-**[⬇️ Download Installer](https://github.com/aebionix/wisper-releases/releases/latest)**
+**[⬇️ Download Installer](https://github.com/aebionix/voxly-releases/releases/latest)**
 
 ## Installation
 
@@ -20,7 +20,7 @@ Der Installer enthält alles was benötigt wird:
 
 | Komponente | Lizenz | Zweck |
 |------------|--------|-------|
-| Wisper App | Proprietär | Hauptanwendung |
+| Voxly | Proprietär | Hauptanwendung |
 | FFmpeg | LGPL 2.1+ | Audio-Aufnahme |
 | whisper.cpp | MIT | Spracherkennung |
 | Whisper Model (tiny) | MIT | KI-Modell |
@@ -64,8 +64,8 @@ Die App prüft automatisch auf Updates und bietet Installation mit einem Klick.
 
 ## Lizenzen
 
-Siehe [LICENSES.md](https://github.com/aebionix/wisper-releases/blob/main/LICENSES.md) für Details zu den enthaltenen Open-Source-Komponenten.
+Siehe [LICENSES.md](https://github.com/aebionix/voxly-releases/blob/main/LICENSES.md) für Details zu den enthaltenen Open-Source-Komponenten.
 
 ## Support
 
-Bei Fragen oder Problemen: [GitHub Issues](https://github.com/aebionix/wisper-releases/issues)
+Bei Fragen oder Problemen: [GitHub Issues](https://github.com/aebionix/voxly-releases/issues)
