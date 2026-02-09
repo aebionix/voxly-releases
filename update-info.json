@@ -1,7 +1,8 @@
 {
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.2.2/Voxly-v2.2.2-Setup.exe",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.3.0/Voxly-v2.3.0-Setup.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.3.0/Voxly-v2.3.0-Setup-NoModel.exe",
+  "release_date": "2026-02-09",
   "installer": true,
-  "version": "2.2.2",
-  "release_notes": "Popup klaut keinen Fokus mehr, QuickChoiceDialog im Vordergrund, eigene Fenster als Ziel ignoriert, Pre-Recording Fenster-Tracking, Popup schliesst nach Transkription, Layout-Verbesserungen",
-  "release_date": "2026-02-09"
+  "release_notes": "Model-Download Dialog: Installer ohne Model verfügbar (~62 MB statt ~137 MB). Beim ersten Start wird das gewünschte Whisper-Modell automatisch heruntergeladen.",
+  "version": "2.3.0"
 }
