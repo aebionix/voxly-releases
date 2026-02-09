@@ -1,7 +1,7 @@
 {
-  "release_notes": "Free Edition Wahl wird gespeichert, Popup-Dauer erhöht",
-  "version": "2.2.2",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.2.2/Voxly-v2.2.2-Setup.exe",
   "installer": true,
-  "release_date": "2026-02-08",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.2.2/Voxly-v2.2.2-Setup.exe"
+  "version": "2.2.2",
+  "release_notes": "Popup klaut keinen Fokus mehr, QuickChoiceDialog im Vordergrund, eigene Fenster als Ziel ignoriert, Pre-Recording Fenster-Tracking, Popup schliesst nach Transkription, Layout-Verbesserungen",
+  "release_date": "2026-02-09"
 }
