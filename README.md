@@ -9,7 +9,12 @@
 
 ## Download
 
-**[⬇️ Installer herunterladen](https://github.com/aebionix/voxly-releases/releases/latest)**
+| Variante | Grösse | Beschreibung |
+|----------|--------|--------------|
+| **[⬇️ Vollständig](https://github.com/aebionix/voxly-releases/releases/latest)** | ~137 MB | Enthält Sprachmodell — sofort einsatzbereit |
+| **[⬇️ Kompakt](https://github.com/aebionix/voxly-releases/releases/latest)** | ~73 MB | Ohne Modell — wird beim ersten Start heruntergeladen |
+
+> **Empfehlung:** Die kompakte Version ist ideal wenn du ein grösseres Modell bevorzugst. Beim ersten Start wählst du das gewünschte Modell aus.
 
 ---
 
@@ -58,9 +63,15 @@ Voxly verwandelt deine Stimme in Text — direkt auf deinem Computer. Keine Inte
 
 ## Installation
 
-1. **Installer herunterladen** (`.exe`)
+### Vollständige Version
+1. **Installer herunterladen** (`.exe`, ~137 MB)
 2. **Ausführen** — keine Admin-Rechte erforderlich
-3. **Fertig!** — Alles ist enthalten, keine zusätzlichen Downloads
+3. **Fertig!** — Alles ist enthalten, sofort einsatzbereit
+
+### Kompakte Version
+1. **Installer herunterladen** (`.exe`, ~73 MB)
+2. **Ausführen** — keine Admin-Rechte erforderlich
+3. **Modell wählen** — Beim ersten Start ein Sprachmodell herunterladen
 
 ### Systemanforderungen
 
@@ -72,8 +83,6 @@ Voxly verwandelt deine Stimme in Text — direkt auf deinem Computer. Keine Inte
 
 ## Sprachmodelle
 
-Die App enthält das **tiny** Modell. Für bessere Erkennung können grössere Modelle direkt in den Einstellungen heruntergeladen werden:
-
 | Modell | Grösse | Qualität | Geschwindigkeit |
 |--------|--------|----------|-----------------|
 | tiny | 75 MB | ⭐⭐ | ⭐⭐⭐⭐⭐ |
@@ -82,6 +91,8 @@ Die App enthält das **tiny** Modell. Für bessere Erkennung können grössere M
 | medium | 1.5 GB | ⭐⭐⭐⭐⭐ | ⭐⭐ |
 
 *Geschwindigkeit abhängig von deiner Hardware.*
+
+Die vollständige Version enthält das **tiny** Modell. Bei der kompakten Version wählst du beim ersten Start das gewünschte Modell.
 
 ---
 
