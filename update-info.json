@@ -1,8 +1,8 @@
 {
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.3.0/Voxly-v2.3.0-Setup.exe",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.3.0/Voxly-v2.3.0-Setup-NoModel.exe",
-  "release_date": "2026-02-09",
   "installer": true,
-  "release_notes": "Model-Download Dialog: Installer ohne Model verfügbar (~62 MB statt ~137 MB). Beim ersten Start wird das gewünschte Whisper-Modell automatisch heruntergeladen.",
-  "version": "2.3.0"
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.4.0/Voxly-v2.4.0-Setup-NoModel.exe",
+  "release_notes": "Premium: Pre-Recording Fenster merken + Fenster in Vordergrund bringen | Schweizer Rechtschreibung konfigurierbar | QuickChoiceDialog entfernt",
+  "version": "2.4.0",
+  "release_date": "2026-02-10",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.4.0/Voxly-v2.4.0-Setup.exe"
 }
