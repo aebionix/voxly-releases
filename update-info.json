@@ -1,8 +1,8 @@
 {
+  "release_notes": "Behebt UI-Freeze beim Modell-Download + Vollständige Deinstallation",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.4.4/Voxly-v2.4.4-Setup.exe",
+  "version": "2.4.4",
   "installer": true,
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.4.3/Voxly-v2.4.3-Setup.exe",
-  "release_notes": "Automatische Migration von alter WisperApp-Installation nach Voxly",
-  "release_date": "2026-02-15",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.4.3/Voxly-v2.4.3-Setup-NoModel.exe",
-  "version": "2.4.3"
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.4.4/Voxly-v2.4.4-Setup-NoModel.exe",
+  "release_date": "2026-02-15"
 }
