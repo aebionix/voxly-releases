@@ -1,8 +1,8 @@
 {
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.5.3/Voxly-v2.5.3-Setup.exe",
-  "release_date": "2026-02-15",
-  "release_notes": "Dark Mode für alle Meldungen (MessageBoxen)",
-  "installer": true,
+  "version": "2.5.3",
   "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.5.3/Voxly-v2.5.3-Setup-NoModel.exe",
-  "version": "2.5.3"
+  "release_notes": "Dark Mode für ALLE Meldungen + Click-to-Record + ESC zum Abbrechen",
+  "release_date": "2026-02-15",
+  "installer": true,
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.5.3/Voxly-v2.5.3-Setup.exe"
 }
