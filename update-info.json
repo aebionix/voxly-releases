@@ -1,8 +1,8 @@
 {
-  "release_notes": "Behebt \"Datei wird verwendet\"-Fehler beim Modell-Download",
-  "release_date": "2026-02-15",
   "installer": true,
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.4.2/Voxly-v2.4.2-Setup.exe",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.4.2/Voxly-v2.4.2-Setup-NoModel.exe",
-  "version": "2.4.2"
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.4.3/Voxly-v2.4.3-Setup.exe",
+  "release_notes": "Automatische Migration von alter WisperApp-Installation nach Voxly",
+  "release_date": "2026-02-15",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.4.3/Voxly-v2.4.3-Setup-NoModel.exe",
+  "version": "2.4.3"
 }
