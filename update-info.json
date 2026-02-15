@@ -1,8 +1,8 @@
 {
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.5.1/Voxly-v2.5.1-Setup-NoModel.exe",
   "installer": true,
-  "release_notes": "Neues Feature: Click-to-Record Modus + UI-Freeze Fix + Vollständige Deinstallation",
-  "version": "2.5.0",
-  "release_date": "2026-02-15",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.5.0/Voxly-v2.5.0-Setup.exe",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.5.0/Voxly-v2.5.0-Setup-NoModel.exe"
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.5.1/Voxly-v2.5.1-Setup.exe",
+  "release_notes": "Fix: UI-Freeze beim Modell-Download endgültig behoben (Task.Run für File.Move)",
+  "version": "2.5.1",
+  "release_date": "2026-02-15"
 }
