@@ -1,8 +1,8 @@
 {
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.5.4/Voxly-v2.5.4-Setup.exe",
-  "version": "2.5.4",
-  "release_notes": "Fix: Text-Überlappung in Dark MessageBox behoben",
-  "installer": true,
   "release_date": "2026-02-16",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.5.4/Voxly-v2.5.4-Setup-NoModel.exe"
+  "version": "2.6.0",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.6.0/Voxly-v2.6.0-Setup-NoModel.exe",
+  "installer": true,
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.6.0/Voxly-v2.6.0-Setup.exe",
+  "release_notes": "Neues Feature: LLM Post-Processing mit LM Studio/Lemonade Server + Keine PDB-Files mehr"
 }
