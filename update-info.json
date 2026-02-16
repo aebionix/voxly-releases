@@ -1,8 +1,8 @@
 {
-  "release_date": "2026-02-16",
-  "version": "2.6.0",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.6.0/Voxly-v2.6.0-Setup-NoModel.exe",
+  "version": "2.6.1",
   "installer": true,
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.6.0/Voxly-v2.6.0-Setup.exe",
-  "release_notes": "Neues Feature: LLM Post-Processing mit LM Studio/Lemonade Server + Keine PDB-Files mehr"
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.6.1/Voxly-v2.6.1-Setup-NoModel.exe",
+  "release_notes": "LLM Tab in Einstellungen hinzugefügt",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.6.1/Voxly-v2.6.1-Setup.exe",
+  "release_date": "2026-02-16"
 }
