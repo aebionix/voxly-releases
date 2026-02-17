@@ -1,8 +1,8 @@
 ﻿{
-    "download_url_nomodel":  "https://github.com/aebionix/voxly-releases/releases/download/v2.6.2/Voxly-v2.6.2-Setup-NoModel.exe",
-    "version":  "2.6.2",
-    "release_notes":  "Fix self-contained build, add FocusManager with robust retry logic",
+    "download_url_nomodel":  "https://github.com/aebionix/voxly-releases/releases/download/v2.6.3/Voxly-v2.6.3-Setup-NoModel.exe",
+    "version":  "2.6.3",
+    "release_notes":  "Fix: App hängt nicht mehr wenn Popup manuell geschlossen wird",
     "installer":  true,
-    "download_url":  "https://github.com/aebionix/voxly-releases/releases/download/v2.6.2/Voxly-v2.6.2-Setup.exe",
+    "download_url":  "https://github.com/aebionix/voxly-releases/releases/download/v2.6.3/Voxly-v2.6.3-Setup.exe",
     "release_date":  "2026-02-17"
 }
