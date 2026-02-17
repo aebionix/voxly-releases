@@ -1,8 +1,8 @@
-{
-  "version": "2.6.1",
-  "installer": true,
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.6.1/Voxly-v2.6.1-Setup-NoModel.exe",
-  "release_notes": "LLM Tab in Einstellungen hinzugefügt",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.6.1/Voxly-v2.6.1-Setup.exe",
-  "release_date": "2026-02-16"
+﻿{
+    "download_url_nomodel":  "https://github.com/aebionix/voxly-releases/releases/download/v2.6.2/Voxly-v2.6.2-Setup-NoModel.exe",
+    "version":  "2.6.2",
+    "release_notes":  "Fix self-contained build, add FocusManager with robust retry logic",
+    "installer":  true,
+    "download_url":  "https://github.com/aebionix/voxly-releases/releases/download/v2.6.2/Voxly-v2.6.2-Setup.exe",
+    "release_date":  "2026-02-17"
 }
