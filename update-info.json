@@ -1,8 +1,8 @@
-﻿{
-    "download_url_nomodel":  "https://github.com/aebionix/voxly-releases/releases/download/v2.6.3/Voxly-v2.6.3-Setup-NoModel.exe",
-    "version":  "2.6.3",
-    "release_notes":  "Fix: App hängt nicht mehr wenn Popup manuell geschlossen wird",
-    "installer":  true,
-    "download_url":  "https://github.com/aebionix/voxly-releases/releases/download/v2.6.3/Voxly-v2.6.3-Setup.exe",
-    "release_date":  "2026-02-17"
+{
+  "release_date": "2026-02-17",
+  "version": "2.6.3",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.6.3/Voxly-v2.6.3-Setup.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.6.3/Voxly-v2.6.3-Setup-NoModel.exe",
+  "installer": true,
+  "release_notes": "Fix: Prevent app hang when popup is manually closed"
 }
