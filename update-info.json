@@ -1,8 +1,8 @@
 {
-  "version": "3.0.0",
-  "release_notes": "Whisper.net In-Process Integration: Ersetzt externes whisper-cli.exe durch native C# Library. GPU-Beschleunigung (CUDA/Vulkan), automatische Model-Erkennung, modularer Installer mit GPU-Auswahl.",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v3.0.0/Voxly-v3.0.0-Setup.exe",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v3.0.0/Voxly-v3.0.0-Setup-NoModel.exe",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v3.0.1/Voxly-v3.0.1-Setup.exe",
   "release_date": "2026-02-21",
-  "installer": true
+  "release_notes": "GPU-Beschleunigung als Premium-Feature, ModelDownload Dialog-Fix",
+  "installer": true,
+  "version": "3.0.1",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v3.0.1/Voxly-v3.0.1-Setup-NoModel.exe"
 }
