@@ -1,8 +1,8 @@
 {
-  "release_date": "2026-02-17",
-  "version": "2.6.3",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v2.6.3/Voxly-v2.6.3-Setup.exe",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v2.6.3/Voxly-v2.6.3-Setup-NoModel.exe",
-  "installer": true,
-  "release_notes": "Fix: Prevent app hang when popup is manually closed"
+  "version": "3.0.0",
+  "release_notes": "Whisper.net In-Process Integration: Ersetzt externes whisper-cli.exe durch native C# Library. GPU-Beschleunigung (CUDA/Vulkan), automatische Model-Erkennung, modularer Installer mit GPU-Auswahl.",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v3.0.0/Voxly-v3.0.0-Setup.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v3.0.0/Voxly-v3.0.0-Setup-NoModel.exe",
+  "release_date": "2026-02-21",
+  "installer": true
 }
