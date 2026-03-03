@@ -1,8 +1,8 @@
 {
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v3.0.2/Voxly-v3.0.2-Setup.exe",
-  "version": "3.0.2",
-  "release_date": "2026-02-21",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v3.0.2/Voxly-v3.0.2-Setup-NoModel.exe",
   "installer": true,
-  "release_notes": "Fix: Settings-Fenster passt sich korrekt an Bildschirmgroesse an (DPI-Scaling), alle Whisper-Modelle werden beim Build kopiert"
+  "release_date": "2026-03-03",
+  "release_notes": "Premium Edition mit GPU-Beschleunigung, Lizenz-System, Sicherheits- und Stabilitaets-Fixes",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.0.0/Voxly-v4.0.0-Setup-NoModel.exe",
+  "version": "4.0.0",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.0.0/Voxly-v4.0.0-Setup.exe"
 }
