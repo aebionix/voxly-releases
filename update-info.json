@@ -1,8 +1,8 @@
 {
   "installer": true,
-  "release_date": "2026-03-03",
-  "release_notes": "Premium Edition mit GPU-Beschleunigung, Lizenz-System, Sicherheits- und Stabilitaets-Fixes",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.0.0/Voxly-v4.0.0-Setup-NoModel.exe",
-  "version": "4.0.0",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.0.0/Voxly-v4.0.0-Setup.exe"
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.0.1/Voxly-v4.0.1-Setup-NoModel.exe",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.0.1/Voxly-v4.0.1-Setup.exe",
+  "version": "4.0.1",
+  "release_notes": "Fix UI overlap in About dialog, truncated History buttons",
+  "release_date": "2026-03-03"
 }
