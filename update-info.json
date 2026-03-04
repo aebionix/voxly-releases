@@ -1,8 +1,8 @@
 {
+  "version": "4.0.2",
+  "release_date": "2026-03-04",
   "installer": true,
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.0.1/Voxly-v4.0.1-Setup-NoModel.exe",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.0.1/Voxly-v4.0.1-Setup.exe",
-  "version": "4.0.1",
-  "release_notes": "Fix UI overlap in About dialog, truncated History buttons",
-  "release_date": "2026-03-03"
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.0.2/Voxly-v4.0.2-Setup-NoModel.exe",
+  "release_notes": "Add progress bar to update download",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.0.2/Voxly-v4.0.2-Setup.exe"
 }
