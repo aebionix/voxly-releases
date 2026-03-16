@@ -53,6 +53,7 @@ Voxly verwandelt deine Stimme in Text — direkt auf deinem Computer. Keine Inte
 - Max. 30 Sekunden pro Aufnahme
 - Alle Sprachen
 - Alle Modelle
+- GPU-Beschleunigung (CUDA/Vulkan)
 - Keine Registrierung
 
 ### Premium Edition *(bald verfügbar)*
