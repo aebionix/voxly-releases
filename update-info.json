@@ -1,8 +1,8 @@
 {
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.0.3/Voxly-v4.0.3-Setup-NoModel.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.1.0/Voxly-v4.1.0-Setup-NoModel.exe",
+  "release_notes": "GPU-Beschleunigung jetzt auch in der Free Edition",
   "installer": true,
-  "version": "4.0.3",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.0.3/Voxly-v4.0.3-Setup.exe",
-  "release_date": "2026-03-04",
-  "release_notes": "Fix: GUI-Deadlock behoben wenn History-Eintrag in letztes Fenster getippt wird"
+  "release_date": "2026-03-16",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.1.0/Voxly-v4.1.0-Setup.exe",
+  "version": "4.1.0"
 }
