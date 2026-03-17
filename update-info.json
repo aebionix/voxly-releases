@@ -1,8 +1,8 @@
 {
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.1.0/Voxly-v4.1.0-Setup-NoModel.exe",
-  "release_notes": "GPU-Beschleunigung jetzt auch in der Free Edition",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.1.1/Voxly-v4.1.1-Setup.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.1.1/Voxly-v4.1.1-Setup-NoModel.exe",
   "installer": true,
-  "release_date": "2026-03-16",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.1.0/Voxly-v4.1.0-Setup.exe",
-  "version": "4.1.0"
+  "release_date": "2026-03-17",
+  "version": "4.1.1",
+  "release_notes": "Fix: Tap-to-Repeat und Double-Tap funktionieren jetzt zuverlässig. Security-Hardening (Update-URL Validierung, FFmpeg Argument Sanitisierung)."
 }
