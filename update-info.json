@@ -1,8 +1,8 @@
 {
   "release_date": "2026-03-19",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.3.0/Voxly-v4.3.0-Setup.exe",
+  "release_notes": "Lautstärke für Audio-Feedback einstellbar | Manuellen Eintrag direkt in der History erfassen | Fix: Import-Duplikate beim CSV-Re-Import behoben | Fix: Gepinnte Einträge können jetzt vollständig gelöscht werden",
   "installer": true,
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.2.1/Voxly-v4.2.1-Setup-NoModel.exe",
-  "release_notes": "Fix: Count-Label überlappt nicht mehr mit Suchfeld in der History.",
-  "version": "4.2.1",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.2.1/Voxly-v4.2.1-Setup.exe"
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.3.0/Voxly-v4.3.0-Setup-NoModel.exe",
+  "version": "4.3.0"
 }
