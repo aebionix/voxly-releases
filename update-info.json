@@ -1,8 +1,8 @@
 {
   "release_date": "2026-03-19",
   "installer": true,
-  "release_notes": "Pin-Filter in History: Neuer Button neben der Suche zeigt nur angepinnte Einträge. Auch per Ctrl+Shift+P erreichbar.",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.2.0/Voxly-v4.2.0-Setup-NoModel.exe",
-  "version": "4.2.0",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.2.0/Voxly-v4.2.0-Setup.exe"
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.2.1/Voxly-v4.2.1-Setup-NoModel.exe",
+  "release_notes": "Fix: Count-Label überlappt nicht mehr mit Suchfeld in der History.",
+  "version": "4.2.1",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.2.1/Voxly-v4.2.1-Setup.exe"
 }
