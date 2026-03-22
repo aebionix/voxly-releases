@@ -1,8 +1,18 @@
 {
-  "release_notes": "Hotfix: Popup-Lifecycle sauber von Hintergrund-Transkription getrennt. Behebt NullReferenceException und abgebrochene Aufnahmen bei schnellen Hotkey-Wiederholungen.",
+  "latest": "4.5.0",
+  "version": "4.5.0",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.0/Voxly-v4.5.0-Setup.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.0/Voxly-v4.5.0-Setup-NoModel.exe",
+  "release_notes": "- Neu: Versions-Verwaltung im Settings-Dialog (Upgrade/Rollback)\\n- Neu: Changelog-Anzeige nach Versions-Wechsel\\n- Fix: Popup-Close brach Aufnahme ab\\n- Fix: FIFO-Reihenfolge bei schnellen Aufnahmen",
   "release_date": "2026-03-22",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.4.1/Voxly-v4.4.1-Setup-NoModel.exe",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.4.1/Voxly-v4.4.1-Setup.exe",
   "installer": true,
-  "version": "4.4.1"
+  "versions": [
+    {
+      "version": "4.5.0",
+      "release_date": "2026-03-22",
+      "release_notes": "- Neu: Versions-Verwaltung im Settings-Dialog (Upgrade/Rollback)\\n- Neu: Changelog-Anzeige nach Versions-Wechsel\\n- Fix: Popup-Close brach Aufnahme ab\\n- Fix: FIFO-Reihenfolge bei schnellen Aufnahmen",
+      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.0/Voxly-v4.5.0-Setup.exe",
+      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.0/Voxly-v4.5.0-Setup-NoModel.exe"
+    }
+  ]
 }
