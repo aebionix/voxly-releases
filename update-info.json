@@ -1,13 +1,21 @@
 {
-  "latest": "4.5.2",
-  "version": "4.5.2",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.2/Voxly-v4.5.2-Setup.exe",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.2/Voxly-v4.5.2-Setup-NoModel.exe",
-  "release_notes": "- Fix: Schnelle Aufnahmen hintereinander funktionierten nicht (Race Condition)\\n- Fix: Release Notes werden mit Zeilenumbrüchen formatiert",
+  "latest": "4.5.3",
+  "version": "4.5.3",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.3/Voxly-v4.5.3-Setup.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.3/Voxly-v4.5.3-Setup-NoModel.exe",
+  "release_notes": "- Fix: Transkriptionen werden sofort getippt statt auf alle Aufnahmen zu warten\\n- Reihenfolge bleibt garantiert (FIFO)",
   "release_date": "2026-03-22",
   "installer": true,
-  "installer_sha256": "65c3ba4d025a30134b0721ce03e40467033ad0cd14721c1f09a3148f53d3d531",
+  "installer_sha256": "a9d1de64a88ee48f04b92d4d06824fa504ccdc90787cad0013758f46f5a6d715",
   "versions": [
+    {
+      "version": "4.5.3",
+      "release_date": "2026-03-22",
+      "release_notes": "- Fix: Transkriptionen werden sofort getippt statt auf alle Aufnahmen zu warten\\n- Reihenfolge bleibt garantiert (FIFO)",
+      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.3/Voxly-v4.5.3-Setup.exe",
+      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.3/Voxly-v4.5.3-Setup-NoModel.exe",
+      "installer_sha256": "a9d1de64a88ee48f04b92d4d06824fa504ccdc90787cad0013758f46f5a6d715"
+    },
     {
       "version": "4.5.2",
       "release_date": "2026-03-22",
