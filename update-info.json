@@ -1,13 +1,21 @@
 {
-  "latest": "4.5.3",
-  "version": "4.5.3",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.3/Voxly-v4.5.3-Setup.exe",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.3/Voxly-v4.5.3-Setup-NoModel.exe",
-  "release_notes": "- Fix: Transkriptionen werden sofort getippt statt auf alle Aufnahmen zu warten\\n- Reihenfolge bleibt garantiert (FIFO)",
-  "release_date": "2026-03-22",
+  "latest": "4.5.4",
+  "version": "4.5.4",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.4/Voxly-v4.5.4-Setup.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.4/Voxly-v4.5.4-Setup-NoModel.exe",
+  "release_notes": "Fix: Context-Menu Aktionen (Anheften, Löschen, Kopieren) funktionierten nicht\\nFix: App-Crash bei Doppelklick auf History-Eintrag\\nFix: Stale Window-Handle bei erneutem Öffnen der History\\nFix: Crash-Prävention für alle async Event-Handler",
+  "release_date": "2026-03-26",
   "installer": true,
-  "installer_sha256": "a9d1de64a88ee48f04b92d4d06824fa504ccdc90787cad0013758f46f5a6d715",
+  "installer_sha256": "eb6c7eda1d60ceb74bbe35b597a538c567aac5458815301d18dca521f7786910",
   "versions": [
+    {
+      "version": "4.5.4",
+      "release_date": "2026-03-26",
+      "release_notes": "Fix: Context-Menu Aktionen (Anheften, Löschen, Kopieren) funktionierten nicht\\nFix: App-Crash bei Doppelklick auf History-Eintrag\\nFix: Stale Window-Handle bei erneutem Öffnen der History\\nFix: Crash-Prävention für alle async Event-Handler",
+      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.4/Voxly-v4.5.4-Setup.exe",
+      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.4/Voxly-v4.5.4-Setup-NoModel.exe",
+      "installer_sha256": "eb6c7eda1d60ceb74bbe35b597a538c567aac5458815301d18dca521f7786910"
+    },
     {
       "version": "4.5.3",
       "release_date": "2026-03-22",
