@@ -6,7 +6,7 @@
   "release_notes": "Fix: Context-Menu Aktionen (Anheften, Löschen, Kopieren) funktionierten nicht\\nFix: App-Crash bei Doppelklick auf History-Eintrag\\nFix: Stale Window-Handle bei erneutem Öffnen der History\\nFix: Crash-Prävention für alle async Event-Handler",
   "release_date": "2026-03-26",
   "installer": true,
-  "installer_sha256": "eb6c7eda1d60ceb74bbe35b597a538c567aac5458815301d18dca521f7786910",
+  "installer_sha256": "73886966ba0925016d0773a9cab091f7d328f4107dca13e61e66b6b3ac056dec",
   "versions": [
     {
       "version": "4.5.4",
@@ -14,7 +14,7 @@
       "release_notes": "Fix: Context-Menu Aktionen (Anheften, Löschen, Kopieren) funktionierten nicht\\nFix: App-Crash bei Doppelklick auf History-Eintrag\\nFix: Stale Window-Handle bei erneutem Öffnen der History\\nFix: Crash-Prävention für alle async Event-Handler",
       "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.4/Voxly-v4.5.4-Setup.exe",
       "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.4/Voxly-v4.5.4-Setup-NoModel.exe",
-      "installer_sha256": "eb6c7eda1d60ceb74bbe35b597a538c567aac5458815301d18dca521f7786910"
+      "installer_sha256": "73886966ba0925016d0773a9cab091f7d328f4107dca13e61e66b6b3ac056dec"
     },
     {
       "version": "4.5.3",
