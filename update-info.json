@@ -1,13 +1,21 @@
 {
-  "latest": "4.5.4",
-  "version": "4.5.4",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.4/Voxly-v4.5.4-Setup.exe",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.4/Voxly-v4.5.4-Setup-NoModel.exe",
-  "release_notes": "Fix: Context-Menu Aktionen (Anheften, Löschen, Kopieren) funktionierten nicht\\nFix: App-Crash bei Doppelklick auf History-Eintrag\\nFix: Stale Window-Handle bei erneutem Öffnen der History\\nFix: Crash-Prävention für alle async Event-Handler",
-  "release_date": "2026-03-26",
+  "latest": "5.0.0",
+  "version": "5.0.0",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.0.0/Voxly-v5.0.0-Setup.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.0.0/Voxly-v5.0.0-Setup-NoModel.exe",
+  "release_notes": "### Neu\n- Clipboard-Paste als Einfüge-Methode (einstellbar)\n- Avalonia/MVVM-Migration mit neuen Transkriptions-Modi\n- Auto-Backend-Erkennung GPU (CUDA/Vulkan/CPU)\n- Parallele Aufnahmen unabhängig\n\n### Verbessert\n- Transkriptions-Progress überschreibt Aufnahme-Popup nicht\n- Text nicht während laufender Aufnahme tippen\n- Keyboard-Hook ignoriert synthetische Events (SendInput)\n- GPU Backend Dropdown mit verständlichen Labels\n- Aktiver Modus mit ● Marker im Tray-Menü\n- Modi ohne LLM ausgegraut\n\n### Behoben\n- NaudioRecorder Deadlock bei StopRecording\n- Threading/Deadlock Architektur-Fix\n- Crash beim Beenden (ObjectDisposedException)\n- TypeText Crash-Logging + globale Exception-Handler\n- About-Dialog Farben",
+  "release_date": "2026-04-17",
   "installer": true,
-  "installer_sha256": "73886966ba0925016d0773a9cab091f7d328f4107dca13e61e66b6b3ac056dec",
+  "installer_sha256": "9d9fb28875602abc6a703c7ec05d9b04f921bf83496719606683660710037426",
   "versions": [
+    {
+      "version": "5.0.0",
+      "release_date": "2026-04-17",
+      "release_notes": "### Neu\n- Clipboard-Paste als Einfüge-Methode (einstellbar)\n- Avalonia/MVVM-Migration mit neuen Transkriptions-Modi\n- Auto-Backend-Erkennung GPU (CUDA/Vulkan/CPU)\n- Parallele Aufnahmen unabhängig\n\n### Verbessert\n- Transkriptions-Progress überschreibt Aufnahme-Popup nicht\n- Text nicht während laufender Aufnahme tippen\n- Keyboard-Hook ignoriert synthetische Events (SendInput)\n- GPU Backend Dropdown mit verständlichen Labels\n- Aktiver Modus mit ● Marker im Tray-Menü\n- Modi ohne LLM ausgegraut\n\n### Behoben\n- NaudioRecorder Deadlock bei StopRecording\n- Threading/Deadlock Architektur-Fix\n- Crash beim Beenden (ObjectDisposedException)\n- TypeText Crash-Logging + globale Exception-Handler\n- About-Dialog Farben",
+      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.0.0/Voxly-v5.0.0-Setup.exe",
+      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.0.0/Voxly-v5.0.0-Setup-NoModel.exe",
+      "installer_sha256": "9d9fb28875602abc6a703c7ec05d9b04f921bf83496719606683660710037426"
+    },
     {
       "version": "4.5.4",
       "release_date": "2026-03-26",
@@ -39,13 +47,6 @@
       "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.1/Voxly-v4.5.1-Setup.exe",
       "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.1/Voxly-v4.5.1-Setup-NoModel.exe",
       "installer_sha256": "b34def2f1fc23eae6196b50b9c4b46fb2f55a7cfd585015f0a048d6802732e55"
-    },
-    {
-      "version": "4.5.0",
-      "release_date": "2026-03-22",
-      "release_notes": "- Neu: Versions-Verwaltung im Settings-Dialog (Upgrade/Rollback)\\n- Neu: Changelog-Anzeige nach Versions-Wechsel\\n- Fix: Popup-Close brach Aufnahme ab\\n- Fix: FIFO-Reihenfolge bei schnellen Aufnahmen",
-      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.0/Voxly-v4.5.0-Setup.exe",
-      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.0/Voxly-v4.5.0-Setup-NoModel.exe"
     }
   ]
 }
