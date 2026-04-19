@@ -1,13 +1,21 @@
 {
-  "latest": "5.0.0",
-  "version": "5.0.0",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.0.0/Voxly-v5.0.0-Setup.exe",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.0.0/Voxly-v5.0.0-Setup-NoModel.exe",
-  "release_notes": "### Neu\n- Clipboard-Paste als Einfüge-Methode (einstellbar)\n- Avalonia/MVVM-Migration mit neuen Transkriptions-Modi\n- Auto-Backend-Erkennung GPU (CUDA/Vulkan/CPU)\n- Parallele Aufnahmen unabhängig\n\n### Verbessert\n- Transkriptions-Progress überschreibt Aufnahme-Popup nicht\n- Text nicht während laufender Aufnahme tippen\n- Keyboard-Hook ignoriert synthetische Events (SendInput)\n- GPU Backend Dropdown mit verständlichen Labels\n- Aktiver Modus mit ● Marker im Tray-Menü\n- Modi ohne LLM ausgegraut\n\n### Behoben\n- NaudioRecorder Deadlock bei StopRecording\n- Threading/Deadlock Architektur-Fix\n- Crash beim Beenden (ObjectDisposedException)\n- TypeText Crash-Logging + globale Exception-Handler\n- About-Dialog Farben",
-  "release_date": "2026-04-17",
+  "latest": "5.1.0",
+  "version": "5.1.0",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.1.0/Voxly-v5.1.0-Setup.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.1.0/Voxly-v5.1.0-Setup-NoModel.exe",
+  "release_notes": "Whisper-Modelle werden beim Selektieren im Settings-Dialog automatisch heruntergeladen (Inline-Progress). Legacy-Cleanup: WinForms-Altcode und tote Scripts entfernt, CI repariert.",
+  "release_date": "2026-04-19",
   "installer": true,
-  "installer_sha256": "9d9fb28875602abc6a703c7ec05d9b04f921bf83496719606683660710037426",
+  "installer_sha256": "dacf55c396c953d9c26a5e269af4d4ec457fae2f90f6f8b175f970dbba3559b9",
   "versions": [
+    {
+      "version": "5.1.0",
+      "release_date": "2026-04-19",
+      "release_notes": "Whisper-Modelle werden beim Selektieren im Settings-Dialog automatisch heruntergeladen (Inline-Progress). Legacy-Cleanup: WinForms-Altcode und tote Scripts entfernt, CI repariert.",
+      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.1.0/Voxly-v5.1.0-Setup.exe",
+      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.1.0/Voxly-v5.1.0-Setup-NoModel.exe",
+      "installer_sha256": "dacf55c396c953d9c26a5e269af4d4ec457fae2f90f6f8b175f970dbba3559b9"
+    },
     {
       "version": "5.0.0",
       "release_date": "2026-04-17",
@@ -39,14 +47,6 @@
       "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.2/Voxly-v4.5.2-Setup.exe",
       "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.2/Voxly-v4.5.2-Setup-NoModel.exe",
       "installer_sha256": "65c3ba4d025a30134b0721ce03e40467033ad0cd14721c1f09a3148f53d3d531"
-    },
-    {
-      "version": "4.5.1",
-      "release_date": "2026-03-22",
-      "release_notes": "- Security: SHA-256 Integritätsprüfung für Installer-Downloads\\n- Neu: Versions-Verwaltung im Settings-Dialog (Upgrade/Rollback)\\n- Neu: Changelog-Anzeige nach Versions-Wechsel\\n- Fix: Popup-Close brach Aufnahme ab\\n- Fix: FIFO-Reihenfolge bei schnellen Aufnahmen",
-      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.1/Voxly-v4.5.1-Setup.exe",
-      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.1/Voxly-v4.5.1-Setup-NoModel.exe",
-      "installer_sha256": "b34def2f1fc23eae6196b50b9c4b46fb2f55a7cfd585015f0a048d6802732e55"
     }
   ]
 }
