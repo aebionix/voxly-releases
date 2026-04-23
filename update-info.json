@@ -1,13 +1,21 @@
 {
-  "latest": "5.1.0",
-  "version": "5.1.0",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.1.0/Voxly-v5.1.0-Setup.exe",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.1.0/Voxly-v5.1.0-Setup-NoModel.exe",
-  "release_notes": "Whisper-Modelle werden beim Selektieren im Settings-Dialog automatisch heruntergeladen (Inline-Progress). Legacy-Cleanup: WinForms-Altcode und tote Scripts entfernt, CI repariert.",
-  "release_date": "2026-04-19",
+  "latest": "5.2.0",
+  "version": "5.2.0",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.0/Voxly-v5.2.0-Setup.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.0/Voxly-v5.2.0-Setup-NoModel.exe",
+  "release_notes": "Sprachenliste (RU/UK neu, englische Namen) | Settings-Fenster resizable mit Screen-MaxHeight | Shift+Hotkey schreibt Text ins aktuelle Fenster (Premium-Override) | Lizenz-Aktivierungsdialog schliesst sich automatisch nach Erfolg | FocusManager: GetCurrentThreadId aus kernel32.dll korrigiert",
+  "release_date": "2026-04-23",
   "installer": true,
-  "installer_sha256": "dacf55c396c953d9c26a5e269af4d4ec457fae2f90f6f8b175f970dbba3559b9",
+  "installer_sha256": "a08aca944a3b70939152aea08384147fdc1f811ca7b447793a1fd4c10a7df6cc",
   "versions": [
+    {
+      "version": "5.2.0",
+      "release_date": "2026-04-23",
+      "release_notes": "Sprachenliste (RU/UK neu, englische Namen) | Settings-Fenster resizable mit Screen-MaxHeight | Shift+Hotkey schreibt Text ins aktuelle Fenster (Premium-Override) | Lizenz-Aktivierungsdialog schliesst sich automatisch nach Erfolg | FocusManager: GetCurrentThreadId aus kernel32.dll korrigiert",
+      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.0/Voxly-v5.2.0-Setup.exe",
+      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.0/Voxly-v5.2.0-Setup-NoModel.exe",
+      "installer_sha256": "a08aca944a3b70939152aea08384147fdc1f811ca7b447793a1fd4c10a7df6cc"
+    },
     {
       "version": "5.1.0",
       "release_date": "2026-04-19",
@@ -39,14 +47,6 @@
       "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.3/Voxly-v4.5.3-Setup.exe",
       "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.3/Voxly-v4.5.3-Setup-NoModel.exe",
       "installer_sha256": "a9d1de64a88ee48f04b92d4d06824fa504ccdc90787cad0013758f46f5a6d715"
-    },
-    {
-      "version": "4.5.2",
-      "release_date": "2026-03-22",
-      "release_notes": "- Fix: Schnelle Aufnahmen hintereinander funktionierten nicht (Race Condition)\\n- Fix: Release Notes werden mit Zeilenumbrüchen formatiert",
-      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.2/Voxly-v4.5.2-Setup.exe",
-      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.2/Voxly-v4.5.2-Setup-NoModel.exe",
-      "installer_sha256": "65c3ba4d025a30134b0721ce03e40467033ad0cd14721c1f09a3148f53d3d531"
     }
   ]
 }
