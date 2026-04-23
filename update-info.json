@@ -1,13 +1,21 @@
 {
-  "latest": "5.2.1",
-  "version": "5.2.1",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.1/Voxly-v5.2.1-Setup.exe",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.1/Voxly-v5.2.1-Setup-NoModel.exe",
-  "release_notes": "Behoben: Einstellungs-Fenster - Inhalt jetzt auch auf kleinen Fenstern komplett erreichbar (Scrollbars in allen Tabs)",
+  "latest": "5.2.2",
+  "version": "5.2.2",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.2/Voxly-v5.2.2-Setup.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.2/Voxly-v5.2.2-Setup-NoModel.exe",
+  "release_notes": "Verbessert: Installer rund 100 MB kleiner durch Entfernen von nicht mehr benoetigtem FFmpeg-Ballast (NAudio ersetzt das seit laengerem)",
   "release_date": "2026-04-23",
   "installer": true,
-  "installer_sha256": "9e6defb28f87c1642cba13d88151a21b75fbaa524f9c58039f1aac2c81a459b8",
+  "installer_sha256": "8345092d3fdd802a019019f72020e8d126c0772f184caca54e256033aa3d446f",
   "versions": [
+    {
+      "version": "5.2.2",
+      "release_date": "2026-04-23",
+      "release_notes": "Verbessert: Installer rund 100 MB kleiner durch Entfernen von nicht mehr benoetigtem FFmpeg-Ballast (NAudio ersetzt das seit laengerem)",
+      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.2/Voxly-v5.2.2-Setup.exe",
+      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.2/Voxly-v5.2.2-Setup-NoModel.exe",
+      "installer_sha256": "8345092d3fdd802a019019f72020e8d126c0772f184caca54e256033aa3d446f"
+    },
     {
       "version": "5.2.1",
       "release_date": "2026-04-23",
@@ -39,14 +47,6 @@
       "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.0.0/Voxly-v5.0.0-Setup.exe",
       "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.0.0/Voxly-v5.0.0-Setup-NoModel.exe",
       "installer_sha256": "9d9fb28875602abc6a703c7ec05d9b04f921bf83496719606683660710037426"
-    },
-    {
-      "version": "4.5.4",
-      "release_date": "2026-03-26",
-      "release_notes": "Fix: Context-Menu Aktionen (Anheften, Löschen, Kopieren) funktionierten nicht\\nFix: App-Crash bei Doppelklick auf History-Eintrag\\nFix: Stale Window-Handle bei erneutem Öffnen der History\\nFix: Crash-Prävention für alle async Event-Handler",
-      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.4/Voxly-v4.5.4-Setup.exe",
-      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.4/Voxly-v4.5.4-Setup-NoModel.exe",
-      "installer_sha256": "73886966ba0925016d0773a9cab091f7d328f4107dca13e61e66b6b3ac056dec"
     }
   ]
 }
