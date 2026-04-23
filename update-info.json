@@ -1,13 +1,21 @@
 {
-  "latest": "5.2.0",
-  "version": "5.2.0",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.0/Voxly-v5.2.0-Setup.exe",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.0/Voxly-v5.2.0-Setup-NoModel.exe",
-  "release_notes": "Neu:\n  • Shift + Sprech-Taste: Text landet einmalig im aktuell aktiven Fenster (statt im ursprünglichen)\n  • Russisch und Ukrainisch als neue Sprachen verfügbar\n\nVerbessert:\n  • Einstellungs-Fenster lässt sich in der Grösse ändern und passt auf kleine Laptop-Bildschirme\n  • Sprachen-Auswahl zeigt Klartext-Namen (z.B. \"German\" statt \"de\")\n  • Sprachenliste aufgeräumt: Japanisch, Koreanisch und Chinesisch entfernt (waren unzuverlässig)\n\nBehoben:\n  • Lizenz-Aktivierungs-Fenster schliesst sich nach erfolgreicher Aktivierung automatisch\n  • Fokus-Wechsel ins Ziel-Fenster funktioniert wieder zuverlässig und ohne Flackern",
+  "latest": "5.2.1",
+  "version": "5.2.1",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.1/Voxly-v5.2.1-Setup.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.1/Voxly-v5.2.1-Setup-NoModel.exe",
+  "release_notes": "Behoben: Einstellungs-Fenster - Inhalt jetzt auch auf kleinen Fenstern komplett erreichbar (Scrollbars in allen Tabs)",
   "release_date": "2026-04-23",
   "installer": true,
-  "installer_sha256": "a08aca944a3b70939152aea08384147fdc1f811ca7b447793a1fd4c10a7df6cc",
+  "installer_sha256": "9e6defb28f87c1642cba13d88151a21b75fbaa524f9c58039f1aac2c81a459b8",
   "versions": [
+    {
+      "version": "5.2.1",
+      "release_date": "2026-04-23",
+      "release_notes": "Behoben: Einstellungs-Fenster - Inhalt jetzt auch auf kleinen Fenstern komplett erreichbar (Scrollbars in allen Tabs)",
+      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.1/Voxly-v5.2.1-Setup.exe",
+      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.1/Voxly-v5.2.1-Setup-NoModel.exe",
+      "installer_sha256": "9e6defb28f87c1642cba13d88151a21b75fbaa524f9c58039f1aac2c81a459b8"
+    },
     {
       "version": "5.2.0",
       "release_date": "2026-04-23",
@@ -39,14 +47,6 @@
       "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.4/Voxly-v4.5.4-Setup.exe",
       "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.4/Voxly-v4.5.4-Setup-NoModel.exe",
       "installer_sha256": "73886966ba0925016d0773a9cab091f7d328f4107dca13e61e66b6b3ac056dec"
-    },
-    {
-      "version": "4.5.3",
-      "release_date": "2026-03-22",
-      "release_notes": "- Fix: Transkriptionen werden sofort getippt statt auf alle Aufnahmen zu warten\\n- Reihenfolge bleibt garantiert (FIFO)",
-      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.3/Voxly-v4.5.3-Setup.exe",
-      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v4.5.3/Voxly-v4.5.3-Setup-NoModel.exe",
-      "installer_sha256": "a9d1de64a88ee48f04b92d4d06824fa504ccdc90787cad0013758f46f5a6d715"
     }
   ]
 }
