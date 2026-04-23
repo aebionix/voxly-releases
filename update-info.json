@@ -3,7 +3,7 @@
   "version": "5.2.0",
   "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.0/Voxly-v5.2.0-Setup.exe",
   "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.0/Voxly-v5.2.0-Setup-NoModel.exe",
-  "release_notes": "Sprachenliste (RU/UK neu, englische Namen) | Settings-Fenster resizable mit Screen-MaxHeight | Shift+Hotkey schreibt Text ins aktuelle Fenster (Premium-Override) | Lizenz-Aktivierungsdialog schliesst sich automatisch nach Erfolg | FocusManager: GetCurrentThreadId aus kernel32.dll korrigiert",
+  "release_notes": "### Neu\n- Shift + Sprech-Taste: Text landet einmalig im aktuell aktiven Fenster (statt im ursprünglichen)\n- Russisch und Ukrainisch als neue Sprachen verfügbar\n\n### Verbessert\n- Einstellungs-Fenster lässt sich in der Grösse ändern und passt auf kleine Laptop-Bildschirme\n- Sprachen-Auswahl zeigt Klartext-Namen (z.B. \"German\" statt \"de\")\n- Sprachenliste aufgeräumt: Japanisch, Koreanisch und Chinesisch entfernt (waren unzuverlässig)\n\n### Behoben\n- Lizenz-Aktivierungs-Fenster schliesst sich nach erfolgreicher Aktivierung automatisch\n- Fokus-Wechsel ins Ziel-Fenster funktioniert wieder zuverlässig und ohne Flackern",
   "release_date": "2026-04-23",
   "installer": true,
   "installer_sha256": "a08aca944a3b70939152aea08384147fdc1f811ca7b447793a1fd4c10a7df6cc",
@@ -11,7 +11,7 @@
     {
       "version": "5.2.0",
       "release_date": "2026-04-23",
-      "release_notes": "Sprachenliste (RU/UK neu, englische Namen) | Settings-Fenster resizable mit Screen-MaxHeight | Shift+Hotkey schreibt Text ins aktuelle Fenster (Premium-Override) | Lizenz-Aktivierungsdialog schliesst sich automatisch nach Erfolg | FocusManager: GetCurrentThreadId aus kernel32.dll korrigiert",
+      "release_notes": "### Neu\n- Shift + Sprech-Taste: Text landet einmalig im aktuell aktiven Fenster (statt im ursprünglichen)\n- Russisch und Ukrainisch als neue Sprachen verfügbar\n\n### Verbessert\n- Einstellungs-Fenster lässt sich in der Grösse ändern und passt auf kleine Laptop-Bildschirme\n- Sprachen-Auswahl zeigt Klartext-Namen (z.B. \"German\" statt \"de\")\n- Sprachenliste aufgeräumt: Japanisch, Koreanisch und Chinesisch entfernt (waren unzuverlässig)\n\n### Behoben\n- Lizenz-Aktivierungs-Fenster schliesst sich nach erfolgreicher Aktivierung automatisch\n- Fokus-Wechsel ins Ziel-Fenster funktioniert wieder zuverlässig und ohne Flackern",
       "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.0/Voxly-v5.2.0-Setup.exe",
       "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.0/Voxly-v5.2.0-Setup-NoModel.exe",
       "installer_sha256": "a08aca944a3b70939152aea08384147fdc1f811ca7b447793a1fd4c10a7df6cc"
