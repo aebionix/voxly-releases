@@ -1,13 +1,21 @@
 {
-  "latest": "5.2.2",
-  "version": "5.2.2",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.2/Voxly-v5.2.2-Setup.exe",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.2/Voxly-v5.2.2-Setup-NoModel.exe",
-  "release_notes": "Verbessert: Installer rund 100 MB kleiner durch Entfernen von nicht mehr benoetigtem FFmpeg-Ballast (NAudio ersetzt das seit laengerem)",
-  "release_date": "2026-04-23",
+  "latest": "5.3.0",
+  "version": "5.3.0",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.3.0/Voxly-v5.3.0-Setup.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.3.0/Voxly-v5.3.0-Setup-NoModel.exe",
+  "release_notes": "Neu: Donut-Tray-Icon mit Status-Farben (Recording pulsiert grün, Success lime, Processing blau usw). Verbessert: Jedes Fenster zeigt das Status-Icon synchron in der Title-Bar und Taskleiste. Einheitliches Titel-Schema 'Voxly - Untertitel'. Behoben: Update-Dialog 'Installieren'-Knopf funktioniert wieder, Buttons nicht mehr abgeschnitten.",
+  "release_date": "2026-04-25",
   "installer": true,
-  "installer_sha256": "8345092d3fdd802a019019f72020e8d126c0772f184caca54e256033aa3d446f",
+  "installer_sha256": "700bb210321005968a6bbe8014057c1e095ccfad893069a0d63923371032da82",
   "versions": [
+    {
+      "version": "5.3.0",
+      "release_date": "2026-04-25",
+      "release_notes": "Neu: Donut-Tray-Icon mit Status-Farben (Recording pulsiert grün, Success lime, Processing blau usw). Verbessert: Jedes Fenster zeigt das Status-Icon synchron in der Title-Bar und Taskleiste. Einheitliches Titel-Schema 'Voxly - Untertitel'. Behoben: Update-Dialog 'Installieren'-Knopf funktioniert wieder, Buttons nicht mehr abgeschnitten.",
+      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.3.0/Voxly-v5.3.0-Setup.exe",
+      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.3.0/Voxly-v5.3.0-Setup-NoModel.exe",
+      "installer_sha256": "700bb210321005968a6bbe8014057c1e095ccfad893069a0d63923371032da82"
+    },
     {
       "version": "5.2.2",
       "release_date": "2026-04-23",
@@ -39,14 +47,6 @@
       "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.1.0/Voxly-v5.1.0-Setup.exe",
       "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.1.0/Voxly-v5.1.0-Setup-NoModel.exe",
       "installer_sha256": "dacf55c396c953d9c26a5e269af4d4ec457fae2f90f6f8b175f970dbba3559b9"
-    },
-    {
-      "version": "5.0.0",
-      "release_date": "2026-04-17",
-      "release_notes": "### Neu\n- Clipboard-Paste als Einfüge-Methode (einstellbar)\n- Avalonia/MVVM-Migration mit neuen Transkriptions-Modi\n- Auto-Backend-Erkennung GPU (CUDA/Vulkan/CPU)\n- Parallele Aufnahmen unabhängig\n\n### Verbessert\n- Transkriptions-Progress überschreibt Aufnahme-Popup nicht\n- Text nicht während laufender Aufnahme tippen\n- Keyboard-Hook ignoriert synthetische Events (SendInput)\n- GPU Backend Dropdown mit verständlichen Labels\n- Aktiver Modus mit ● Marker im Tray-Menü\n- Modi ohne LLM ausgegraut\n\n### Behoben\n- NaudioRecorder Deadlock bei StopRecording\n- Threading/Deadlock Architektur-Fix\n- Crash beim Beenden (ObjectDisposedException)\n- TypeText Crash-Logging + globale Exception-Handler\n- About-Dialog Farben",
-      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.0.0/Voxly-v5.0.0-Setup.exe",
-      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.0.0/Voxly-v5.0.0-Setup-NoModel.exe",
-      "installer_sha256": "9d9fb28875602abc6a703c7ec05d9b04f921bf83496719606683660710037426"
     }
   ]
 }
