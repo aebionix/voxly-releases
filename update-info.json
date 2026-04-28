@@ -1,13 +1,21 @@
 {
-  "latest": "5.3.1",
-  "version": "5.3.1",
-  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.3.1/Voxly-v5.3.1-Setup.exe",
-  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.3.1/Voxly-v5.3.1-Setup-NoModel.exe",
-  "release_notes": "Hotkey-Latenz drastisch reduziert (Pre-Warm Audio-Stack). Auto-Switch auf Windows-Standard-Mikrofon mit Live-Anzeige. Block-Popup pro Monitor wenn Einstellungen offen sind.",
+  "latest": "5.3.2",
+  "version": "5.3.2",
+  "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.3.2/Voxly-v5.3.2-Setup.exe",
+  "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.3.2/Voxly-v5.3.2-Setup-NoModel.exe",
+  "release_notes": "Auto-Update-Installer kommt nun korrekt in den Vordergrund. Modell-Wechsel in den Einstellungen funktioniert ohne App-Neustart. Audio-Feedback Thread-Safety-Fix.",
   "release_date": "2026-04-28",
   "installer": true,
-  "installer_sha256": "bbfbf67e5850261c544c995de87689ec95f0a07ab5f04bccb9553df6d9f182c6",
+  "installer_sha256": "0062da26671a2ff02adb327cef3144d2192f247a6bafa4d19fc3325107a9a630",
   "versions": [
+    {
+      "version": "5.3.2",
+      "release_date": "2026-04-28",
+      "release_notes": "Auto-Update-Installer kommt nun korrekt in den Vordergrund. Modell-Wechsel in den Einstellungen funktioniert ohne App-Neustart. Audio-Feedback Thread-Safety-Fix.",
+      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.3.2/Voxly-v5.3.2-Setup.exe",
+      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.3.2/Voxly-v5.3.2-Setup-NoModel.exe",
+      "installer_sha256": "0062da26671a2ff02adb327cef3144d2192f247a6bafa4d19fc3325107a9a630"
+    },
     {
       "version": "5.3.1",
       "release_date": "2026-04-28",
@@ -39,14 +47,6 @@
       "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.1/Voxly-v5.2.1-Setup.exe",
       "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.1/Voxly-v5.2.1-Setup-NoModel.exe",
       "installer_sha256": "9e6defb28f87c1642cba13d88151a21b75fbaa524f9c58039f1aac2c81a459b8"
-    },
-    {
-      "version": "5.2.0",
-      "release_date": "2026-04-23",
-      "release_notes": "Neu:\n  • Shift + Sprech-Taste: Text landet einmalig im aktuell aktiven Fenster (statt im ursprünglichen)\n  • Russisch und Ukrainisch als neue Sprachen verfügbar\n\nVerbessert:\n  • Einstellungs-Fenster lässt sich in der Grösse ändern und passt auf kleine Laptop-Bildschirme\n  • Sprachen-Auswahl zeigt Klartext-Namen (z.B. \"German\" statt \"de\")\n  • Sprachenliste aufgeräumt: Japanisch, Koreanisch und Chinesisch entfernt (waren unzuverlässig)\n\nBehoben:\n  • Lizenz-Aktivierungs-Fenster schliesst sich nach erfolgreicher Aktivierung automatisch\n  • Fokus-Wechsel ins Ziel-Fenster funktioniert wieder zuverlässig und ohne Flackern",
-      "download_url": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.0/Voxly-v5.2.0-Setup.exe",
-      "download_url_nomodel": "https://github.com/aebionix/voxly-releases/releases/download/v5.2.0/Voxly-v5.2.0-Setup-NoModel.exe",
-      "installer_sha256": "a08aca944a3b70939152aea08384147fdc1f811ca7b447793a1fd4c10a7df6cc"
     }
   ]
 }
